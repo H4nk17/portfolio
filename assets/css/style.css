@@ -232,5 +232,22 @@ a:hover{
 }
 
 .formulaire{
-	margin-top: 120px;
+	margin-top: 150px;
+}
+
+.docs{
+	margin-top: 150px;
+}
+
+.card-group{
+	padding-bottom: 5px;
+}
+
+.card-group h5{
+	font-size: 0.9em;
+	text-align : left;
+}
+
+.card-group img{
+	height: 215px;
 }
